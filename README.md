@@ -28,5 +28,6 @@ Please make pull requests with below naming convention
 
 ## Vote for cutiest pet
 Bi - Minh Nguyen
+![](./bi-minh_nguyen.jpg)
 - Minh Nguyen
 
