@@ -1,4 +1,4 @@
-# Hacktoberfest cutiest pet
+# Hacktoberfest cutiest pet 🙊
 
 ## Why you need to join this project?
 - You like Hacktoberfest and you want a shirt (if you don't know what Hacktoberfest is, just come here)
@@ -9,7 +9,7 @@
 ## How to contribute?
 1. Fork this repo into your Github profile
 
-2. Post your pet's image:
+2. Post your pet's image(🐶🐱 🦝🦁🐒🦆🐢🐍🐳🐆🦍):
 
 2.1. Upload your pet's image in root directory with the following naming convention:
 - If you have only 1 image: `<your_pet_name>-<your_name>.<jpg|jpeg|png|...>`, eg: `bi-minh_nguyen.png` (bi is my pet's name, minh_nguyen is my name)
@@ -19,7 +19,7 @@
 
 3. Vote for cutiest pet: Sign your name below pet you love in `Vote for cutiest pet` section in `README.md` (you can vote more than 1 pet)
 
-## How to make pull request(PR)?
+## How to make pull requests?
 Please make pull requests with below naming convention
 - Title: `<post|vote>-<your_pet_name(if you post pet's image)>-<your_name>`
 - Lable: `hacktoberfest`
