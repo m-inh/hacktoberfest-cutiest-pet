@@ -25,3 +25,5 @@ Please make pull requests with below naming convention
 - Lable: `hacktoberfest`
 
 ### Thanks and have fun
+
+## Vote for cutiest pet
