@@ -3,7 +3,7 @@
 ## Why you need to join this project?
 - You like Hacktoberfest and you want a shirt (if you don't know what Hacktoberfest is, just come [here](https://hacktoberfest.digitalocean.com))
 - You have pet and want to share his/her cute to another
-- You have no pet and just want to see someone's pet (there is a vote for the cutiest pet which you can contribute to)
+- You have no pet and just want to see someone's pet (there is a vote section for the cutiest pet which you can contribute to)
 - You only have computer but no shirt!!
 
 ## How to contribute?
