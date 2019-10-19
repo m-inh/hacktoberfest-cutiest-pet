@@ -1,7 +1,7 @@
 # Hacktoberfest cutiest pet 🙊
 
 ## Why you need to join this project?
-- You like Hacktoberfest and you want a shirt (if you don't know what Hacktoberfest is, just come here)
+- You like Hacktoberfest and you want a shirt (if you don't know what Hacktoberfest is, just come [here](https://hacktoberfest.digitalocean.com))
 - You have pet and want to share his/her cute to another
 - You have no pet and just want to see someone's pet (there is a vote for the cutiest pet which you can contribute to)
 - You only have computer but no shirt!!
@@ -24,7 +24,7 @@ Please make pull requests with below naming convention
 - Title: `<post|vote>-<your_pet_name(if you post pet's image)>-<your_name>`
 - Lable: `hacktoberfest`
 
-### Thanks and have fun
+### Thanks and have fun 🐣
 
 ## Vote for cutiest pet
 - Bi - Minh Nguyen
