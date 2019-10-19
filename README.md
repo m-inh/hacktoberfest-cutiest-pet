@@ -11,11 +11,11 @@
 
 2. Post your pet's image:
 
-Upload your pet's image in root directory with the following naming convention:
+2.1. Upload your pet's image in root directory with the following naming convention:
 - If you have only 1 image: `<your_pet_name>-<your_name>.<jpg|jpeg|png|...>`, eg: `bi-minh_nguyen.png` (bi is my pet's name, minh_nguyen is my name)
 - If you have another image: `<your_pet_name>-<your_name>_<ordinal_number>.<jpg|jpeg|png|...>`, eg: `bi-minh_nguyen_1.png`, `bi-minh_nguyen_2.png` 
 
-- Write your pet's name in `Vote for cutiest pet` section in `README.md`
+2.2. Write your pet's name in `Vote for cutiest pet` section in `README.md`
 
 3. Vote for cutiest pet: Sign your name below pet you love in `Vote for cutiest pet` section in `README.md` (you can vote more than 1 pet)
 
