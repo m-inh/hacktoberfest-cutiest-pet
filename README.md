@@ -33,6 +33,8 @@ Please make pull requests with below naming convention
 
 Minh Nguyen
 
+
+- Bom - Tu Tran
 ![Bom](./bom-tu.jpg)
 
 Tu Tran
